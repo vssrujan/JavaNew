@@ -1,4 +1,4 @@
-package com.git.javanew;
+package com.modernjava.lambda;
 
 public class IncrementByFiveLambda {
     public static void main(String[] args) {

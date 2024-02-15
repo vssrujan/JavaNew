@@ -1,4 +1,4 @@
-package com.git.javanew;
+package com.modernjava.lambda;
 
 public class ConcatenateLambda {
     public static void main(String[] args) {

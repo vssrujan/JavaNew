@@ -1,4 +1,4 @@
-package com.git.javanew;
+package com.modernjava.lambda;
 
 public class RunnableExample {
     public static void main(String[] args) {
